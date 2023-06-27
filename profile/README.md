@@ -22,7 +22,7 @@
             <a href="https://github.com/dlwjddn123"><I>@dlwjddn123</I></a>
         </td>
               <td>
-            <img src="https://github.com/2xHjin.png?size=120">
+            <img src="https://github.com/2xHjin.png?size=120" width="120">
             <br>
             <a href="https://github.com/2xHjin"><I>@2xHjin</I></a>
         </td>
