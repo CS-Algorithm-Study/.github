@@ -16,9 +16,3 @@
 |<img src="https://github.com/Ji-Un-Gil.png" width=100>|<img src="https://github.com/dlwjddn123.png" width=100>|<img src="https://github.com/2xHjin.png" width=100>|<img src="https://github.com/DAHLIACHOI.png" width=100>|
 |[@Ji-Un-Gil](https://github.com/Ji-Un-Gil)|[@dlwjddn123](https://github.com/dlwjddn123)|[@2xHjin](https://github.com/2xHjin)|[@DAHLIACHOI](https://github.com/DAHLIACHOI)|
 
-
-## 📆 알고리즘 일정
-
-| |1|2|3|4|
-|:-:|:-:|:-:|:-:|:-:|
-|1주차(06.28~07.05)|[섬의 개수](https://www.acmicpc.net/problem/4963)|[미로 탐색](https://www.acmicpc.net/problem/2178)|[감시](https://www.acmicpc.net/problem/15683)|
