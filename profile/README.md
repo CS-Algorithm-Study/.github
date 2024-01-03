@@ -11,7 +11,7 @@
 
 |길지운|이정우|최예지|손지민|
 |:-:|:-:|:-:|:-:|
-|<img src="https://github.com/Ji-Un-Gil.png" width=100>|<img src="https://github.com/dlwjddn123.png" width=100>|<img src="https://github.com/2xHjin.png" width=100>|<img src="https://github.com/DAHLIACHOI.png" width=100>|
+|<img src="https://github.com/Ji-Un-Gil.png" width=100>|<img src="https://github.com/dlwjddn123.png" width=100>|<img src="https://github.com/DAHLIACHOI.png" width=100>|<img src="https://github.com/wl2258.png" width=100>|
 |[@Ji-Un-Gil](https://github.com/Ji-Un-Gil)|[@dlwjddn123](https://github.com/dlwjddn123)|[@DAHLIACHOI](https://github.com/DAHLIACHOI)|[@wl2258](https://github.com/wl2258)|
 
 ### 이전 Member
